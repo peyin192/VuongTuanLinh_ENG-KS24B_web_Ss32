@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+#text {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.button {
+    padding: 10px 15px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 18px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.increase {
+    background: green;
+}
+.decrease {
+    background: red;
+}
